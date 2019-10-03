@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/123/CLionProjects/B5/DataStruct.hpp
+string
+-
+
+C:/Users/123/CLionProjects/B5/algoritm.cpp
+iostream
+-
+algorithm
+-
+iterator
+-
+stdexcept
+-
+vector
+-
+algoritm.hpp
+C:/Users/123/CLionProjects/B5/algoritm.hpp
+
+C:/Users/123/CLionProjects/B5/algoritm.hpp
+sstream
+-
+DataStruct.hpp
+C:/Users/123/CLionProjects/B5/DataStruct.hpp
+
+C:/Users/123/CLionProjects/B5/main.cpp
+iostream
+-
+iterator
+-
+vector
+-
+algorithm
+-
+algoritm.hpp
+C:/Users/123/CLionProjects/B5/algoritm.hpp
+

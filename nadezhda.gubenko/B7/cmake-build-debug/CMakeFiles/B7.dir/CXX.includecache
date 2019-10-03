@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/123/CLionProjects/B7/Functor.cpp
+iostream
+-
+iomanip
+-
+Functor.hpp
+C:/Users/123/CLionProjects/B7/Functor.hpp
+
+C:/Users/123/CLionProjects/B7/Functor.hpp
+
+C:/Users/123/CLionProjects/B7/main.cpp
+iostream
+-
+iostream
+-
+iterator
+-
+vector
+-
+algorithm
+-
+functional
+-
+Functor.hpp
+C:/Users/123/CLionProjects/B7/Functor.hpp
+

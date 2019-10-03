@@ -1,0 +1,3 @@
+C:/Users/123/CLionProjects/B8/cmake-build-debug/CMakeFiles/B8.dir
+C:/Users/123/CLionProjects/B8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/123/CLionProjects/B8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
